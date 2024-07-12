@@ -12,7 +12,7 @@ VERSION
 
 ## *End Tag*:
 
-</html>; may be ommited in HTML
+< / html >; may be ommited in HTML
 
 ## *Contains*:
 
