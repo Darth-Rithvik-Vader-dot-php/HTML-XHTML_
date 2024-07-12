@@ -4,10 +4,11 @@ Define the current document's base location and relationship to other documents.
 
 <isindex>
 
-Deprecated in HTML 4, the <isindex> 
-
+Deprecated in HTML 4, the <isindex> tag at one time could be used to create automatic document indexing forms, allowing users to search databases of information using the current document as a quering tool.
 
 <nextid>
+
+Not supported in XHTML
 
 <meta>
 
